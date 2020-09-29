@@ -1,0 +1,5 @@
+﻿  functions.cpp
+  main.cpp
+  正在生成代码...
+D:\学习\大二\数据结构\编程\顺序线性表\functions.cpp(99): warning C4715: “LocateElem”: 不是所有的控件路径都返回值
+  顺序线性表.vcxproj -> D:\学习\大二\数据结构\编程\顺序线性表\Debug\顺序线性表.exe
